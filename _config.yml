@@ -19,7 +19,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: secureyourself/
+  github:
   instagram:
   linkedin:
   pinterest:
@@ -83,4 +83,4 @@ exclude:
   - README.md
   - CNAME
 
-baseurl: https://secureyourself.github.io
+baseurl: https://fantasticiv.github.io
